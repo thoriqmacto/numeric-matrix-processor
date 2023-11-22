@@ -1,0 +1,17 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |-
+      fun main() {
+          val number: String = 100
+          println(number)
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4614#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 17 May 2023 11:32:56 UTC"
+record: -1
+submission_language: kotlin
